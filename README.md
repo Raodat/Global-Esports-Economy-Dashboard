@@ -1,6 +1,6 @@
 # Global-Esports-Economy-Dashboard
 
-## Build from Sources and Run the Scraper
+## Build from Sources and Run the Selenium Scraper
 1. Clone the repo
 ```bash
 git clone https://github.com/Raodat/Global-Esports-Economy-Dashboard.git
@@ -17,4 +17,5 @@ pip install -r requirements.txt
 4. Download Chromedriver from https://developer.chrome.com/docs/chromedriver/downloads
 5. Check the scraped data here https://github.com/Raodat/Global-Esports-Economy-Dashboard/tree/c9bc99679f060c9ff4462b1ed89244f57e419250/venv
 
+## Analytics
 Tableau public view: https://public.tableau.com/app/profile/raodat.momin.chowdhury/viz/GlobalEsportsEconomyDashboard/Dashboard1
