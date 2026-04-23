@@ -1,7 +1,7 @@
 # Global-Esports-Economy-Dashboard
 
 ## Problem Statement
-Esports have become really popular over the years, and the tournament prizes often rival or even surpass the prize pools of some of the biggest sports tournaments in the world. The goal of this project is to gather data and analyze the esports tournaments based on prize money and player participation. 
+Esports have become really popular over the years, and the tournament prizes often rival or even surpass the prize pools of some of the biggest sports tournaments in the world. The goal of this project is to gather data and analyze the esports tournaments based on prize money and player participation. The data was scraped from https://www.esportsearnings.com/
 My findings were visualized on a Tableau dashboard to answer the following:
 1. Which tournaments have awarded the most prize money?
 2. Which tournaments have seen the most player participation?
