@@ -1,5 +1,9 @@
 # Global-Esports-Economy-Dashboard
 
+## Problem Statement
+Esports have become really popular over the years, and the tournament prizes often rival or even surpass the prize pools of some of the biggest sports tournaments in the world. The goal of this project is to gather data and analyze the esports tournaments based on prize money and player participation. 
+My findings were visualized on a Tableau dashboard. 
+
 ## Build from Sources and Run the Selenium Scraper
 1. Clone the repo
 ```bash
