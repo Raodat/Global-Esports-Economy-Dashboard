@@ -2,7 +2,14 @@
 
 ## Problem Statement
 Esports have become really popular over the years, and the tournament prizes often rival or even surpass the prize pools of some of the biggest sports tournaments in the world. The goal of this project is to gather data and analyze the esports tournaments based on prize money and player participation. 
-My findings were visualized on a Tableau dashboard. 
+My findings were visualized on a Tableau dashboard to answer the following:
+1. Which tournaments have awarded the most prize money?
+2. Which tournaments have seen the most player participation?
+3. A map representation of the countries with the most winnings in esports.
+4. Which Asian countries are dominating the field of esports?
+
+You can find the Tableau public dashboard here: https://public.tableau.com/app/profile/raodat.momin.chowdhury/viz/GlobalEsportsEconomyDashboard/Dashboard1
+
 
 ## Build from Sources and Run the Selenium Scraper
 1. Clone the repo
