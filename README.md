@@ -8,7 +8,7 @@ My findings were visualized on a Tableau dashboard to answer the following:
 3. A map representation of the countries with the most winnings in esports.
 4. Which Asian countries are dominating the field of esports?
 
-You can find the Tableau public dashboard here: https://public.tableau.com/app/profile/raodat.momin.chowdhury/viz/GlobalEsportsEconomyDashboard/Dashboard1
+You can find the Tableau public dashboard [here](https://public.tableau.com/app/profile/raodat.momin.chowdhury/viz/GlobalEsportsEconomyDashboard/Dashboard1)
 
 ## Finding from the [Dashboard](https://public.tableau.com/app/profile/raodat.momin.chowdhury/viz/GlobalEsportsEconomyDashboard/Dashboard1)
 1. Dota 2 tournament The International 2021 has had the highest prize pool in esports history.
