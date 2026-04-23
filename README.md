@@ -2,19 +2,16 @@
 
 ## Build from Sources
 1. Clone the repo
-```
-bash
+```bash
 git clone https://github.com/Raodat/Global-Esports-Economy-Dashboard.git
 ```
 3. Initialize and activate virtual environment
-```
-bash
+```bash
 virtualenv venv --no-site-packages venv
 source venv/bin/activate
 ```
 4. Install dependencies
-```
-bash
+```bash
 pip install -r requirements.txt
 ```
 
