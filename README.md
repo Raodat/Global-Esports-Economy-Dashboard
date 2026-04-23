@@ -10,6 +10,11 @@ My findings were visualized on a Tableau dashboard to answer the following:
 
 You can find the Tableau public dashboard here: https://public.tableau.com/app/profile/raodat.momin.chowdhury/viz/GlobalEsportsEconomyDashboard/Dashboard1
 
+## Finding from the Dashboard
+1. Dota 2 tournament The International 2021 has had the highest prize pool in esports history.
+2. The Fortnite Fall Skirmish series has seen the highest player participation
+3. China dominates the esports economy in the world.
+4. China is leading when it comes to Asian countries, and Bangladesh is ranked 98 in the world and ranked 30 in Asia. 
 
 ## Build from Sources and Run the Selenium Scraper
 1. Clone the repo
